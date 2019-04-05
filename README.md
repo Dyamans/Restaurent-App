@@ -2,10 +2,10 @@
 
 #Angular 7 with Web API CRUD
 
-This is a Veg Restaurent App using Angular 7 and .Net Framework using AWS cloud SQL server as a database.
+This is a Veg Restaurent App using Angular 7, .Net Framework using AWS cloud SQL server as a database.
 
 # Tools Used
-.Net Framrwork, Visual Studio 2017, Web Api, Angular 7, Boot Strap, SQL Server.
+.Net Framrwork 4.6.1, Visual Studio 2017, Web Api, ADO.NET, Entity Data Model, Angular 7, Boot Strap, SQL Server.
 
 # UI screen shots.
 
